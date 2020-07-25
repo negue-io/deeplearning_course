@@ -1,5 +1,7 @@
 Ce repo contient les projets implémentés pendant le cours [Deep Learning de A à Z](https://www.udemy.com/le-deep-learning-de-a-a-z/?couponCode=WEBSITE) à l'aide de `tensorflow`, `keras`, et `PyTorch`.
 
+repo clone de : [https://gitlab.datachamp.fr/charles/deeplearning](https://gitlab.datachamp.fr/charles/deeplearning)
+
 1. [Installation des modules](#installation-des-modules)
 2. [Partie 1 - ANN](#partie-1-ann)
 3. [Partie 2 - CNN](#partie-2-cnn)
